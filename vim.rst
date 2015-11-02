@@ -20,6 +20,6 @@ block selection::
 
 多行缩进 ::
 
-    Ctrl+v
+    v
     >
 
