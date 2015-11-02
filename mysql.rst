@@ -1,4 +1,4 @@
-using mysql
+mysql
 ============
 
 mysql start command
