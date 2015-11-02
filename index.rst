@@ -14,5 +14,5 @@ Contents:
    systemd
    mysql
    package
-
+   vim
 
