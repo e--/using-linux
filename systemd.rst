@@ -1,3 +1,5 @@
+.. highlight:: bash
+
 systemd
 ===============
 systemd是linux最新的初始化系统

@@ -3,12 +3,16 @@ mysql
 
 mysql basic command
 ------------------------
-login::
+login
+
+.. code-block:: sql
 
     mysql --help
     mysql -h localhost -u root -p
 
-info::
+info
+
+.. code-block:: sql
 
     select version(),current_date;
     select user();
@@ -16,7 +20,9 @@ info::
     use mysql;
     show tables;
 
-create user::
+create user
+
+.. code-block:: sql
 
     create database demo;
     create user 'demo'@'%' identified by 'demo';
